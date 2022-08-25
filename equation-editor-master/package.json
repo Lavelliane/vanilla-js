@@ -1,0 +1,14 @@
+{
+  "name": "equation-editor-master",
+  "version": "1.0.0",
+  "description": "## Features",
+  "main": "drawing-pad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mathml-to-asciimath": "^1.4.0"
+  }
+}
